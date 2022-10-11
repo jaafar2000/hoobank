@@ -12,11 +12,11 @@ Thanks for checking out this Application.
 
 ### Built with
 
-React Js
-Vite JS
-Tailwind Css
-JavaScript
-JSX
+-React Js
+-Vite JS
+-Tailwind Css
+-JavaScript
+-JSX
 
 ## Author
 
